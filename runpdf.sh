@@ -15,6 +15,7 @@ then
     rm *.idx
     rm *.ist
     rm *.log
+    rm *.out
     rm *.spl
 
 
